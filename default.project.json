@@ -1,0 +1,6 @@
+{
+  "name": "asset-manager",
+  "tree": {
+      "$path": "lib"
+  }
+}
