@@ -4,5 +4,8 @@ description = "Simple singleton to access instances from a specified folder"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+repository = "https://github.com/areshaistg/rbx-asset-manager"
+license = "Apache-2.0"
+exclude = ["README.md", "aftman.toml"]
 
 [dependencies]
